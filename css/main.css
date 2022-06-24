@@ -11,7 +11,7 @@ main {
 }
 
 nav {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(255, 255, 255, 0);
   padding: 1%;
   overflow: auto;
 }
@@ -57,7 +57,7 @@ h1 {
   width: 100%;
   height: 100%;
   position: fixed;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(255, 255, 255, 0);
   transition-duration: 1s;
 }
 .title {
@@ -65,7 +65,7 @@ h1 {
   top: 40%;
   width: 100%;
   position: absolute;
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0);
 }
 .under-nav {
   left: 0;
@@ -73,7 +73,7 @@ h1 {
   position: absolute;
   width: 70%;
   height: 3%;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(255, 255, 255, 0);
 }
 .loading-box {
   right: 0;
@@ -81,5 +81,5 @@ h1 {
   position: absolute;
   width: 30%;
   height: 15%;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(255, 255, 255, 0);
 }
