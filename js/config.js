@@ -27,6 +27,7 @@ Config.enableAnnouncements = true;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
+  "Thank you for joining the server!",
   "Enjoy your stay!",
   "This loadingscreen is made by Exsite"
 ];
@@ -35,7 +36,7 @@ Config.announceMessages = [
  * How many miliseconds for each announcement?
  * only works if enableAnnouncements = true
  */
-Config.announcementLength = 3000;
+Config.announcementLength = 6000;
 
 /**
  * Image Filename
