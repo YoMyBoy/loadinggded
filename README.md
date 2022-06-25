@@ -1,3 +1,3 @@
 # loadinggded
 
-test couscous
+modified version for basewars server gmod
