@@ -1,4 +1,4 @@
 # loadinggded
 
-modified version for basewars server gmod
+modified version for deathmatch server gmod
 original creator : Exsite
