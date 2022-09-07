@@ -1,4 +1,4 @@
 # loadinggded
 
-modified version for deathmatch server gmod
+modified version for zombie escape server gmod
 original creator : Exsite
